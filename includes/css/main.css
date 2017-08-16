@@ -1,0 +1,47 @@
+@font-face {
+    font-family: LasEnter;
+    src: url(LasEnter_PersonalUseOnly.ttf);
+}
+
+
+@font-face {
+    font-family: marquee_moon;
+    src: url(marquee_moon.ttf);
+}
+
+h1 {
+    font-family: marquee_moon;
+  /*  font-family: LasEnter;*/
+    font-size: 10em;
+}
+
+
+body {
+	background-color: #00394d;
+/*	color:#ccfff5;*/
+	color:#e6ffff;
+}
+
+#imgMe {
+	border-radius: 50%;
+	width: 75%;
+	height: auto;
+	margin-top: 3em;
+	float: right;
+	border-style: solid;
+	border-color: #e6ffff;
+	border-width: 5px;
+
+}
+#howto {
+	-webkit-perspective:;
+
+
+}
+
+#bulletinPic {
+	width: 75%;
+	height:auto;
+	text-align: center;
+}
+
